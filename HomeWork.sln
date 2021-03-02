@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exeption", "Exeption\Exepti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexator", "Indexator\Indexator.csproj", "{107BB73B-A8DC-409F-B8D2-C27BC4783C77}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberGeneric", "..\Задачи Generic\Задачи Generic\NumberGeneric.csproj", "{00C15AD9-4505-4EE0-BD32-E4CECFED5853}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGeneric", "NumberGeneric\NumberGeneric.csproj", "{3F286854-6AB9-4E53-A8E1-601489EAC91E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{107BB73B-A8DC-409F-B8D2-C27BC4783C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{107BB73B-A8DC-409F-B8D2-C27BC4783C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{107BB73B-A8DC-409F-B8D2-C27BC4783C77}.Release|Any CPU.Build.0 = Release|Any CPU
-		{00C15AD9-4505-4EE0-BD32-E4CECFED5853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{00C15AD9-4505-4EE0-BD32-E4CECFED5853}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{00C15AD9-4505-4EE0-BD32-E4CECFED5853}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{00C15AD9-4505-4EE0-BD32-E4CECFED5853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F286854-6AB9-4E53-A8E1-601489EAC91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F286854-6AB9-4E53-A8E1-601489EAC91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F286854-6AB9-4E53-A8E1-601489EAC91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F286854-6AB9-4E53-A8E1-601489EAC91E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
