@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exeption", "Exeption\Exepti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexator", "Indexator\Indexator.csproj", "{107BB73B-A8DC-409F-B8D2-C27BC4783C77}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задачи Generic", "..\Задачи Generic\Задачи Generic\Задачи Generic.csproj", "{00C15AD9-4505-4EE0-BD32-E4CECFED5853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberGeneric", "..\Задачи Generic\Задачи Generic\NumberGeneric.csproj", "{00C15AD9-4505-4EE0-BD32-E4CECFED5853}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
