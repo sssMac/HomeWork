@@ -1,0 +1,13 @@
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\bin\Debug\netcoreapp3.1\BasicClass.exe
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\bin\Debug\netcoreapp3.1\BasicClass.deps.json
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\bin\Debug\netcoreapp3.1\BasicClass.runtimeconfig.json
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\bin\Debug\netcoreapp3.1\BasicClass.runtimeconfig.dev.json
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\bin\Debug\netcoreapp3.1\BasicClass.dll
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\bin\Debug\netcoreapp3.1\BasicClass.pdb
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\obj\Debug\netcoreapp3.1\BasicClass.csprojAssemblyReference.cache
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\obj\Debug\netcoreapp3.1\BasicClass.AssemblyInfoInputs.cache
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\obj\Debug\netcoreapp3.1\BasicClass.AssemblyInfo.cs
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\obj\Debug\netcoreapp3.1\BasicClass.csproj.CoreCompileInputs.cache
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\obj\Debug\netcoreapp3.1\BasicClass.dll
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\obj\Debug\netcoreapp3.1\BasicClass.pdb
+C:\Users\IlyaNB\source\repos\BasicClass\BasicClass\obj\Debug\netcoreapp3.1\BasicClass.genruntimeconfig.cache
