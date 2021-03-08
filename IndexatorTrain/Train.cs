@@ -15,6 +15,7 @@ namespace IndexatorTrain // Ляпин Илья 11-012
 
         public int Wagon { get; set; }
 
+        private Wagon[] data { get; set; }
 
         public Train(string wey, string name, DateTime start, DateTime end, int wagon)
         {
@@ -24,7 +25,23 @@ namespace IndexatorTrain // Ляпин Илья 11-012
             TimeEnd = end;
             TimeWey = CalculateTime(TimeStart, TimeEnd);
             Wagon = wagon;
+            data = new Wagon[wagon];
         }
+
+        public Wagon this[int index]
+        {
+            get
+            {
+                return data[index];
+            }
+            set
+            {
+                data[index] = value;
+            }
+        }
+
+
+       
 
         public void TrainInfo(Train train)
         {

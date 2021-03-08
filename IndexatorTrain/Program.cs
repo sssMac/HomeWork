@@ -26,6 +26,11 @@ namespace IndexatorTrain
 
             Train train = new Train(dest, nameTrain, timeS, timeE, count);
 
+            for (int i = 0; i < count; i++)
+            {
+                train[i] = new Wagon($"{i}"); 
+            }
+
             train.TrainInfo(train);
 
         }

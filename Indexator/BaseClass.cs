@@ -7,29 +7,52 @@ namespace Indexator // Ляпин Илья 11-012
     class BaseClass
     {
         private int[,] data { get; set; }
+        private int[] data1 { get; set; }
 
-        public BaseClass()
+        public BaseClass(int x, int y)
         {
-            data = new int[3, 3];
+            data = new int[x, y];
         }
 
-
-
-        public int this[int index1, int index2]
+        public int[] this[int colIndex]
         {
             get
             {
-                return data[index1, index2];
+                if (colIndex > data.GetLength(1))
+                    throw new IndexOutOfRangeException("");
+
+                var array = new int[data.GetLength(1)];
+
+                for (int i = 0; i < data.GetLength(1); i++)
+                {
+                    array[i] = data[i, colIndex];
+                }
+
+                return array;
             }
             set
             {
-                data[index1, index2] = value;
+                if (colIndex > data.GetLength(1))
+                    throw new IndexOutOfRangeException("");
+
+                for (int i = 0; i < value.Length; i++)
+                {
+                    data[i, colIndex] = value[i];
+                }
             }
 
         }
 
-
-
-
+        public int this[int x, int y]
+        {
+            get
+            {
+                return data[x, y];
+            }
+            set
+            {
+                data[x, y] = value;
+            }
+        }
     }
 }
