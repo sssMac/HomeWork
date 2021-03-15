@@ -12,8 +12,8 @@ namespace Delegate
             Calculation D = GetCircle;
             Calculation S = GetCircleArea;
             Calculation V = GetBallVolume;
-            Console.WriteLine("D = " + D(r)+ "\n" + "S = " + S(r) + "\n" + "V = " + V(r));
-            
+            Console.WriteLine("D = " + D(r) + "\n" + "S = " + S(r) + "\n" + "V = " + V(r));
+
         }
 
         static double GetCircle(double r)

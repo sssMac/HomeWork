@@ -7,7 +7,7 @@ namespace IndexatorTrain // Ляпин Илья 11-012
 {
     class Train
     {
-        private string Wey { get; set; }
+        private string Wey { get ; set; }
         private string NameTrain { get; set; }
         public DateTime TimeStart { get; set; }
         public DateTime TimeEnd { get; set; }

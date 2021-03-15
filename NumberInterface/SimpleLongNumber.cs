@@ -4,7 +4,8 @@ using System.Text;
 
 namespace NumberInterface
 {
-    class SimpleLongNumber : Number
+
+    class SimpleLongNumber : INumber
     {
         public int Value { get; set; }
 
@@ -14,6 +15,21 @@ namespace NumberInterface
         }
 
         public SimpleLongNumber() { }
+
+        public Number add(Number number)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Number sub(Number number)
+        {
+            throw new NotImplementedException();
+        }
+
+        public int compareTo(Number number)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
