@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delega
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonimusMethod", "AnonimusMethod\AnonimusMethod.csproj", "{8C0BF3F5-8D57-488C-88D0-BAB739F1E2BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListEcxel", "ListEcxel\ListEcxel.csproj", "{75349DF7-78B8-471F-8EF1-1F0F6EDE5CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListEcxel", "ListEcxel\ListEcxel.csproj", "{75349DF7-78B8-471F-8EF1-1F0F6EDE5CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyList", "MyList\MyList.csproj", "{32FD76C0-9119-498A-B3C9-96D1C9550639}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{75349DF7-78B8-471F-8EF1-1F0F6EDE5CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75349DF7-78B8-471F-8EF1-1F0F6EDE5CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75349DF7-78B8-471F-8EF1-1F0F6EDE5CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FD76C0-9119-498A-B3C9-96D1C9550639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FD76C0-9119-498A-B3C9-96D1C9550639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FD76C0-9119-498A-B3C9-96D1C9550639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FD76C0-9119-498A-B3C9-96D1C9550639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
